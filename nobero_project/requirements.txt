@@ -44,4 +44,5 @@ tzdata==2024.1
 urllib3==2.2.2
 uv==0.3.2
 w3lib==2.2.1
+whitenoise==6.7.0
 zope.interface==7.0.1
